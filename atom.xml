@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>nefelibata的小窝</title>
+  
+  <subtitle>纵有疾风起，人生不言弃</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://nefelibata.top/"/>
+  <updated>2017-10-28T00:39:58.000Z</updated>
+  <id>http://nefelibata.top/</id>
+  
+  <author>
+    <name>Kangbeijing</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://nefelibata.top/2019/02/07/hello-world/"/>
+    <id>http://nefelibata.top/2019/02/07/hello-world/</id>
+    <published>2019-02-07T11:29:21.906Z</published>
+    <updated>2017-10-28T00:39:58.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
